@@ -1,4 +1,4 @@
-### Hi, my name is Estefanía Ramírez... 😎
+Hi, my name is ### Estefanía Ramírez... 😎
 Welcome to my profile 😊
 
 <!--

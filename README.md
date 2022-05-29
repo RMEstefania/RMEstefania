@@ -13,4 +13,10 @@ Thank you for visiting my profile 😊
 
 #### Languages and tools:
 
-<h3>Front-End</h3>
+<h4>Front-End</h4>
+
+<h4>Back-End</h4>
+
+<h4>Tools</h4>
+
+### Social media

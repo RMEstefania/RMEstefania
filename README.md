@@ -15,8 +15,8 @@ Thank you for visiting my profile 😊
 
 <h4>Front-End</h4>
 
-*HTML5
-*CSS3
+* HTML5
+* CSS3
 
 <h4>Back-End</h4>
 
@@ -24,18 +24,18 @@ Thank you for visiting my profile 😊
 
 <h4>Others languages</h4>
 
-*C
-*C++
-*Python
+* C
+* C++
+* Python
 
 <h4>Tools</h4>
 
-*Visual Studio Code
-*Git
-*GitHub
-*DevC++
-*CppDoid
-*Arduino
-*Atom
+* Visual Studio Code
+* Git
+* GitHub
+* DevC++
+* CppDoid
+* Arduino
+* Atom
 
 ### Social media

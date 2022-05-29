@@ -3,7 +3,7 @@ Welcome to my profile 😎
 
 Thank you for visiting my profile 😊
 
-#### About me:
+### About me:
 
 * I'm student of Engineering Student in Information Technology Management. I'm currently in 5th semester 😄
 * I'm a Front-End Developer 📳
@@ -11,7 +11,7 @@ Thank you for visiting my profile 😊
 * I like to program and web develop websites 👩‍💻
 * I like to learn and share knowledge 📚
 
-#### Languages and tools:
+### Languages and tools:
 
 <h4>Front-End</h4>
 
@@ -39,3 +39,5 @@ Thank you for visiting my profile 😊
 * Atom
 
 ### Social media
+
+<a href= www.linkedin.com/in/estefanía-ramírez-mtz> LinkedIn </a>

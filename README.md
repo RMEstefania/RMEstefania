@@ -20,7 +20,7 @@ Thank you for visiting my profile 😊
 
 <h4>Back-End</h4>
 
-*JavaScript
+* JavaScript
 
 <h4>Others languages</h4>
 

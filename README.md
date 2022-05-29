@@ -1,12 +1,12 @@
 ### Hi, my name is Estefanía Ramírez... 😎
 Welcome to my profile 😊
 
-Thanks for visit my profile.
+Thank you for visiting my profile.
 
-## About of me :
+## About me :
 
-* Soy estudiante de Ingeniería en Gestión de Tecnologías de Información y actualmente curso el 5° cuatrimestre de la carrera.
-* 
+* I'm student of Engineering Student in Information Technology Management. I'm currently in 5th carrer semester
+* I'm a Front-End Developer 
 
 <!--
 **RMEstefania/RMEstefania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

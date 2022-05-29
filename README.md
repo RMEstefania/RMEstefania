@@ -7,8 +7,10 @@ Thank you for visiting my profile 😊
 
 * I'm student of Engineering Student in Information Technology Management. I'm currently in 5th semester 😄
 * I'm a Front-End Developer 📳
+* I'm a Back-End Developer, but I still have a lot to learn 📲
 * I like to program and web develop websites 👩‍💻
 * I like to learn and share knowledge 📚
 
-#### Languages:
+#### Languages and tools:
 
+<h3>Front-End</h3>
